@@ -1,0 +1,97 @@
+{
+  "version": 2,
+  "page_id": "51J8RHMHHNME78WA10KC2YJJRF",
+  "last_synced_hash": "sha256:caf77048f1cab439777a21ea8e067cbd939aed0c5469b4b5ff328a89eb39966c",
+  "last_synced_at": "2026-10-12T20:46:06.201875234-05:00",
+  "blocks": [
+    {
+      "id": "01M4SF0DWKX0BP4TESRRP20H71",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:58ee974f2355eaeb944d73e7004ab5bf503bbea6b404a1918bb3fcaf14a18809",
+      "ref_handle": "blk-p20h71",
+      "text": "TODO Train at the Jedi temple #jedi"
+    },
+    {
+      "id": "01M4SF0DWW1HASG4ET008NSRFR",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:88c1c2d46896ea448212c32bbba801b6e6f25b98b2d971d8e2310e97eb9a082d",
+      "ref_handle": "blk-8nsrfr",
+      "text": "TODO Rescue Han from carbonite #rebel/alliance"
+    },
+    {
+      "id": "01M4SF0DX5XSDBZEP73HV8RJAJ",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:13eaf0b77961f8ced47fc4ebc5f2f8bc382b30d597393319ef9cc5b8ae3a2958",
+      "ref_handle": "blk-v8rjaj",
+      "text": "DOING Chart the hyperlane to Endor #rebel"
+    },
+    {
+      "id": "01M4SF0DXEGW9VKNYEJVMXKWA9",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:d42cc71cc7a4be9800ae58deee141db5243a34a9a4ad16d6987ed31441f24af5",
+      "ref_handle": "blk-mxkwa9",
+      "text": "DONE Blow up the first Death Star #rebel/squadron"
+    },
+    {
+      "id": "01M4SF0DXQ55VPDR2PGGZJVZV3",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:9dbaf5665063d8b5c7a989c6e62ac79ca51c3c5ff57174554865bd1c45312cbd",
+      "ref_handle": "blk-zjvzv3",
+      "text": "[ ] Meet Yoda on Dagobah #jedi"
+    },
+    {
+      "id": "01M4SF0DY0EKSJN2V91Z4G72A2",
+      "line": 6,
+      "indent": 0,
+      "content_hash": "sha256:eae2d95a221efbdb7a7acf9ba13e51892bea16398b95a92c6be54a8c7b57b741",
+      "ref_handle": "blk-4g72a2",
+      "text": "[/] Brief the pilots before the raid #rebel"
+    },
+    {
+      "id": "01M4SF0DY9FHYEF5KRSZMD7G85",
+      "line": 7,
+      "indent": 0,
+      "content_hash": "sha256:c0eee730a2ba6cbafdde0abd88935d37bbe1deda173fbcff062d0411075ed8ab",
+      "ref_handle": "blk-md7g85",
+      "text": "[x] Decrypt the Imperial fleet rotations"
+    },
+    {
+      "id": "01M4SF0DYHES8J9YCEJGMBBWK2",
+      "line": 8,
+      "indent": 0,
+      "content_hash": "sha256:a6f3d022e4f50e67a0463f616856e72df0c5f5c6d05cdc9f1dff1937dcb9c9a4",
+      "ref_handle": "blk-mbbwk2",
+      "text": "Prose about the moisture rings #tatooine"
+    },
+    {
+      "id": "01M4SF0DYT7ZFDXVQ4J0J4YHP5",
+      "line": 9,
+      "indent": 0,
+      "content_hash": "sha256:00e4d2184255d04c5e80799298a89884724f61a58ef0f1a54b62f980b5682533",
+      "ref_handle": "blk-j4yhp5",
+      "text": "> Do, or do not. There is no try. #wisdom"
+    },
+    {
+      "id": "01M4SF0DZ3A6BVGQZCMFYE3Y3W",
+      "line": 10,
+      "indent": 0,
+      "content_hash": "sha256:ded45aed2ecb7f1bbab86f01f198c0de4aaaee51138e211dcfd465dc48518c14",
+      "ref_handle": "blk-ye3y3w",
+      "text": "Inventory for the revolt #rebellion"
+    },
+    {
+      "id": "01M4SF0DZC4DYJTV93KGZ8J6PB",
+      "line": 11,
+      "indent": 0,
+      "content_hash": "sha256:d302a1b2e68ddc0446074bd56ce574c0d61bda9bcede481723115cf5758c7f9f",
+      "ref_handle": "blk-z8j6pb",
+      "text": "Upper case notes from an archivist #Jedi"
+    }
+  ],
+  "pipeline_version": 5
+}

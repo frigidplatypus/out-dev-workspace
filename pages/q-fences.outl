@@ -1,0 +1,769 @@
+{
+  "version": 2,
+  "page_id": "0J5YP1BTYE4N37QP8BGM92XXM4",
+  "last_synced_hash": "sha256:e15a03637a89bfd7dbcf5bc60d88a444c16dc080fe9625063de5f0e1686b9534",
+  "last_synced_at": "2026-10-12T21:11:21.165528669-05:00",
+  "blocks": [
+    {
+      "id": "01M4SF0E45B0G21GAZVTNZ1NVN",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:012b49220aaeb974da855f9e6d428740989b65eaa1a55b74c8b0ea84b6f6866c",
+      "ref_handle": "blk-nz1nvn",
+      "text": "Every open task in the workspace: status: todo keeps blocks with the TODO prefix, and checkbox [ ] counts as the same state; sort: page groups the hits by their page."
+    },
+    {
+      "id": "01M4SF0E4ESMYNBBYAB5ZENXWB",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:1ea7bad02ae9125e4894c47317e4475e0890201edd5c370837ed82aee158fa2c",
+      "ref_handle": "blk-zenxwb",
+      "text": "```query\nstatus: todo\nsort: page\n```"
+    },
+    {
+      "id": "01M4SF20MK2XAKHERGDA31992B",
+      "line": 3,
+      "indent": 1,
+      "content_hash": "sha256:353c5dbbe775236d2d8067fb82fdeff594bef975ced29ab99d4a83e7352c23a9",
+      "ref_handle": "blk-31992b",
+      "text": "> **result:** (6 blocks)"
+    },
+    {
+      "id": "01M4SF20MKMHS5Y8NWTG1F24V5",
+      "line": 4,
+      "indent": 2,
+      "content_hash": "sha256:311c988a9ce384bd1627646e26f79c08dca8c3d7d7748fad73a4d91d25c41762",
+      "ref_handle": "blk-1f24v5",
+      "text": "!((blk-bqw0yj))"
+    },
+    {
+      "id": "01M4SF20MKK67SWPWDMY90QDKR",
+      "line": 5,
+      "indent": 2,
+      "content_hash": "sha256:0b799e93ac48e67bb2e31725be48f106e05e431351770689bf5214ca42c72b09",
+      "ref_handle": "blk-90qdkr",
+      "text": "!((blk-h8exgh))"
+    },
+    {
+      "id": "01M4SF20MKQEW18N1VV6RD204S",
+      "line": 6,
+      "indent": 2,
+      "content_hash": "sha256:b88559afa3dcd3551f6388e64ff3b44c459a2594d6717490239614855ae78a96",
+      "ref_handle": "blk-rd204s",
+      "text": "!((blk-zjvzv3))"
+    },
+    {
+      "id": "01M4SF20MKAGWHW6JQ6YJTGVCH",
+      "line": 7,
+      "indent": 2,
+      "content_hash": "sha256:e9a8380ecdedb893f59d36da7d440e4c02707a193cf064ab7e09d9d1cdd0db39",
+      "ref_handle": "blk-jtgvch",
+      "text": "!((blk-p20h71))"
+    },
+    {
+      "id": "01M4SF20MK4R9HEAYTAN3NMSCW",
+      "line": 8,
+      "indent": 2,
+      "content_hash": "sha256:ef4e4749830d417fd7907a136c46023de5d8af5757c07080ca48a15d249fafa0",
+      "ref_handle": "blk-3nmscw",
+      "text": "!((blk-8nsrfr))"
+    },
+    {
+      "id": "01M4SF20MKYMWRFE82753XC5F6",
+      "line": 9,
+      "indent": 2,
+      "content_hash": "sha256:e98108b432d7b699fad89ee618c46dce707b2be12b944ac5a87f93d275eade9c",
+      "ref_handle": "blk-3xc5f6",
+      "text": "!((blk-eg4dc5))"
+    },
+    {
+      "id": "01M4SF0E4QZFAKE9YXRETQ1EAF",
+      "line": 10,
+      "indent": 0,
+      "content_hash": "sha256:21597cf8294efa58e3b7afe07e04fa023007305c5d0f99bcc424f28c6dd62cbe",
+      "ref_handle": "blk-tq1eaf",
+      "text": "EXPECT: every TODO-spelled block, sorted by page; checkbox [ ] blocks join them, [/] and [x] do not."
+    },
+    {
+      "id": "01M4SF0E51EFQ5TZD2PJZ9BYTT",
+      "line": 11,
+      "indent": 0,
+      "content_hash": "sha256:1ae6cca5063f80d566010bfc14d2f2e127515df5be0846e933c5fb7cd92ad321",
+      "ref_handle": "blk-z9bytt",
+      "text": "All task states in one list: status: open covers todo, doing and done; sort: status ranks them todo first, doing next, done last."
+    },
+    {
+      "id": "01M4SF0E595H24ZATZB9VBKG37",
+      "line": 12,
+      "indent": 0,
+      "content_hash": "sha256:a4afac7691d0cc6784a63ea6ae0d970568e962b5fa0fb9e6958848102c25baab",
+      "ref_handle": "blk-vbkg37",
+      "text": "```query\nstatus: open\nsort: status\n```"
+    },
+    {
+      "id": "01M4SF23RYYWSK4VNXZZ9V1HFM",
+      "line": 13,
+      "indent": 1,
+      "content_hash": "sha256:f260b2103edde673ccadb3f06b6970e5e2e1cad246cfee0ad22d244503029185",
+      "ref_handle": "blk-9v1hfm",
+      "text": "> **result:** (12 blocks)"
+    },
+    {
+      "id": "01M4SFVHHTN9TMGTD8T1BK9C6P",
+      "line": 14,
+      "indent": 2,
+      "content_hash": "sha256:0b799e93ac48e67bb2e31725be48f106e05e431351770689bf5214ca42c72b09",
+      "ref_handle": "blk-bk9c6p",
+      "text": "!((blk-h8exgh))"
+    },
+    {
+      "id": "01M4SFVHHT28HRJTZRCHFB98P7",
+      "line": 15,
+      "indent": 2,
+      "content_hash": "sha256:311c988a9ce384bd1627646e26f79c08dca8c3d7d7748fad73a4d91d25c41762",
+      "ref_handle": "blk-fb98p7",
+      "text": "!((blk-bqw0yj))"
+    },
+    {
+      "id": "01M4SFVHHTV21R84AB1H6DPH55",
+      "line": 16,
+      "indent": 2,
+      "content_hash": "sha256:e98108b432d7b699fad89ee618c46dce707b2be12b944ac5a87f93d275eade9c",
+      "ref_handle": "blk-6dph55",
+      "text": "!((blk-eg4dc5))"
+    },
+    {
+      "id": "01M4SFVHHTJQDANSPN9FF2T7GR",
+      "line": 17,
+      "indent": 2,
+      "content_hash": "sha256:b88559afa3dcd3551f6388e64ff3b44c459a2594d6717490239614855ae78a96",
+      "ref_handle": "blk-f2t7gr",
+      "text": "!((blk-zjvzv3))"
+    },
+    {
+      "id": "01M4SFVHHTHCE40BR1N5YV8FK6",
+      "line": 18,
+      "indent": 2,
+      "content_hash": "sha256:e9a8380ecdedb893f59d36da7d440e4c02707a193cf064ab7e09d9d1cdd0db39",
+      "ref_handle": "blk-yv8fk6",
+      "text": "!((blk-p20h71))"
+    },
+    {
+      "id": "01M4SFVHHTG6F6XQ5TMQP6ZRB8",
+      "line": 19,
+      "indent": 2,
+      "content_hash": "sha256:ef4e4749830d417fd7907a136c46023de5d8af5757c07080ca48a15d249fafa0",
+      "ref_handle": "blk-p6zrb8",
+      "text": "!((blk-8nsrfr))"
+    },
+    {
+      "id": "01M4SFVHHTTTW95WY1YS72W9DF",
+      "line": 20,
+      "indent": 2,
+      "content_hash": "sha256:45d09b2dded03c54a682b04e165adaad9c161cf7309e96b8808873f775b38c9c",
+      "ref_handle": "blk-72w9df",
+      "text": "!((blk-4g72a2))"
+    },
+    {
+      "id": "01M4SF2B4K59RTPE02C8KDA29A",
+      "line": 21,
+      "indent": 2,
+      "content_hash": "sha256:7023126492abd765531f7caf3f1d04125987ce76d68ef63549b3bfd70260498a",
+      "ref_handle": "blk-kda29a",
+      "text": "!((blk-v8rjaj))"
+    },
+    {
+      "id": "01M4SF2CYJGR30ECCMQENS4PTD",
+      "line": 22,
+      "indent": 2,
+      "content_hash": "sha256:96cc13b79dee668e280b4639b9f3ae584aeb2a2cfd00aa7be83edb6e14189925",
+      "ref_handle": "blk-ns4ptd",
+      "text": "!((blk-g54h9j))"
+    },
+    {
+      "id": "01M4SFVHHTN8V667JST5ER6XXJ",
+      "line": 23,
+      "indent": 2,
+      "content_hash": "sha256:6bc4bb8be5946c312e3166624d2fec6b4bb660c3f1ee785f518975630a65ed39",
+      "ref_handle": "blk-er6xxj",
+      "text": "!((blk-s9k280))"
+    },
+    {
+      "id": "01M4SF2CYJEWC6Z633Y8FV1H6R",
+      "line": 24,
+      "indent": 2,
+      "content_hash": "sha256:85e81b6b2981cdecdaddc3ebc6462a566aac581f743c0a68ee0e0681e5d02482",
+      "ref_handle": "blk-fv1h6r",
+      "text": "!((blk-md7g85))"
+    },
+    {
+      "id": "01M4SF2D6AHMR26E8QFP1AAXNT",
+      "line": 25,
+      "indent": 2,
+      "content_hash": "sha256:60c0b40850c387b783aee5c607faf567e4e2d4117b4c82bd398e0ef97ca480ea",
+      "ref_handle": "blk-1aaxnt",
+      "text": "!((blk-mxkwa9))"
+    },
+    {
+      "id": "01M4SF0E5KM2KT1XQJ95ECME3G",
+      "line": 26,
+      "indent": 0,
+      "content_hash": "sha256:0dcd15b71d398492f189febeed8632d6c3305f3ac78974ebceeb001aa31223df",
+      "ref_handle": "blk-ecme3g",
+      "text": "EXPECT: every task in every state; todo rank first, doing next, done last."
+    },
+    {
+      "id": "01M4SF0E5XRN47A79W9524TZDE",
+      "line": 27,
+      "indent": 0,
+      "content_hash": "sha256:82c3ba738f1adbc311a9b28335a5f6ab0e6ae8cb9b4ac87400ce1d7d5241d20a",
+      "ref_handle": "blk-24tzde",
+      "text": "Comma inside a tag value: the tag alphabet is letters, digits, dash, underscore and slash only, so the comma is a parse error, not a union. Unions over tags are spelled as repeated tag: lines, as the next fence shows."
+    },
+    {
+      "id": "01M4SF0E66BSMB3SY8XMJ3C8WC",
+      "line": 28,
+      "indent": 0,
+      "content_hash": "sha256:41ec01033101a21c67e28a64c56d4ca7833a81338d450de6bd682d82afcbef1d",
+      "ref_handle": "blk-j3c8wc",
+      "text": "```query\ntag: rebel, jedi\nsort: page\n```"
+    },
+    {
+      "id": "01M4SF21D62BKCRRRSF4Z27QRY",
+      "line": 29,
+      "indent": 1,
+      "content_hash": "sha256:7bfea49b1191855afe65f672e3ed36b6d2fd86819582c283e7113943c97cd7c0",
+      "ref_handle": "blk-z27qry",
+      "text": "> **result:** `error: line 1: tag 'rebel, jedi' contains ',', which cannot appear in a tag (letters, digits, '-', '_' and '/' only)`"
+    },
+    {
+      "id": "01M4SF0E6E2CX40SH6GPN1V7WP",
+      "line": 30,
+      "indent": 0,
+      "content_hash": "sha256:d9ab2b027e667e90525a728450e563be3c4b90fb2c7ff1ff44bfe6857c15c531",
+      "ref_handle": "blk-n1v7wp",
+      "text": "EXPECT: line 1 error — tag contains a comma, which cannot appear in a tag (letters, digits, dash, underscore and slash only)."
+    },
+    {
+      "id": "01M4SF0E6QW8JMZP2G316J599Y",
+      "line": 31,
+      "indent": 0,
+      "content_hash": "sha256:0e081744a8fdaa96bedd8bb6d6c6c260605967477d7dad24f936c7b047f9a0c7",
+      "ref_handle": "blk-6j599y",
+      "text": "Two filters on one key AND: a block survives only if it carries both #tatooine and #rebel. Repeated lines exclude more, they do not widen."
+    },
+    {
+      "id": "01M4SF0E71EB163HQYMW1VH34C",
+      "line": 32,
+      "indent": 0,
+      "content_hash": "sha256:5c57677006ac677aed75a7cba7ee421634c3305084f645aa38c641da5f82c95e",
+      "ref_handle": "blk-1vh34c",
+      "text": "```query\ntag: tatooine\ntag: rebel\nsort: page\n```"
+    },
+    {
+      "id": "01M4SF21Z2DMMPTW475Y5H8X92",
+      "line": 33,
+      "indent": 1,
+      "content_hash": "sha256:fb37b87649a9a9ea1305c983224cec46f8791c12ca78e1c0cdb42a23d408e620",
+      "ref_handle": "blk-5h8x92",
+      "text": "> **result:** (2 blocks)"
+    },
+    {
+      "id": "01M4SF2CZ9THG7DRWQPBMX762Q",
+      "line": 34,
+      "indent": 2,
+      "content_hash": "sha256:468f3d5d45ecd3757e6842581bf9b93612d25846442959b3c652654347444774",
+      "ref_handle": "blk-mx762q",
+      "text": "!((blk-6j599y))"
+    },
+    {
+      "id": "01M4SFVHJKH3HQBJ0ZDG6E30EA",
+      "line": 35,
+      "indent": 2,
+      "content_hash": "sha256:781b6c5afcb9ef24adf8dbf1a967d07ffc3c6656d17ab65c2b9544d2fcbe4bd2",
+      "ref_handle": "blk-6e30ea",
+      "text": "!((blk-1kpw1r))"
+    },
+    {
+      "id": "01M4SF0E7AT25DDDGFPC30MFP5",
+      "line": 36,
+      "indent": 0,
+      "content_hash": "sha256:6f08577341ca2d49fadcb16c67a53e3fe24a709bc44c19d58970b36b81cc5bfa",
+      "ref_handle": "blk-30mfp5",
+      "text": "EXPECT: two hits - Rally point carries both #tatooine and #rebel; this comment also answers because prose naming both tags counts as carrying them. Repeated lines AND, they do not widen.EXPECT: two hits - Rally point carries both #tatooine and #rebel; this comment also answers because prose naming both tags counts as carrying them. Repeated lines AND, they do not widen."
+    },
+    {
+      "id": "01M4SF0E7NM11K58CMN8GXP4T8",
+      "line": 37,
+      "indent": 0,
+      "content_hash": "sha256:053cb666968440491a03bbe2ca90fc5c191f240c47f0e25f53327a30cb8b36a3",
+      "ref_handle": "blk-gxp4t8",
+      "text": "Boundary match plus negation: keep blocks tagged #rebel, drop the ones also tagged #alliance. Matching stops at the tag boundary, so #rebellion is not matched by either side."
+    },
+    {
+      "id": "01M4SF0E7YA2CW21HYMJAF6FNM",
+      "line": 38,
+      "indent": 0,
+      "content_hash": "sha256:3fa597376fff36ed04f929662c7e8c6526ce1b49269a31acd2d81657b81d60fe",
+      "ref_handle": "blk-af6fnm",
+      "text": "```query\ntag: rebel\nnot-tag: alliance\n```"
+    },
+    {
+      "id": "01M4SF21Z5ZPS7HYAKZM0NDGPQ",
+      "line": 39,
+      "indent": 1,
+      "content_hash": "sha256:96466d075bd9f10a51c4bf3b6309bb0c0873008e39db6f01277c8d0758c50ee9",
+      "ref_handle": "blk-0ndgpq",
+      "text": "> **result:** (8 blocks)"
+    },
+    {
+      "id": "01M4SF2B61C49SNWNP1T5PGPFT",
+      "line": 40,
+      "indent": 2,
+      "content_hash": "sha256:468f3d5d45ecd3757e6842581bf9b93612d25846442959b3c652654347444774",
+      "ref_handle": "blk-5pgpft",
+      "text": "!((blk-6j599y))"
+    },
+    {
+      "id": "01M4SF2CYJ9RWS8333WWJKPFYF",
+      "line": 41,
+      "indent": 2,
+      "content_hash": "sha256:45d09b2dded03c54a682b04e165adaad9c161cf7309e96b8808873f775b38c9c",
+      "ref_handle": "blk-jkpfyf",
+      "text": "!((blk-4g72a2))"
+    },
+    {
+      "id": "01M4SF2BJ21J9WNX1NNXFEKKYZ",
+      "line": 42,
+      "indent": 2,
+      "content_hash": "sha256:7023126492abd765531f7caf3f1d04125987ce76d68ef63549b3bfd70260498a",
+      "ref_handle": "blk-fekkyz",
+      "text": "!((blk-v8rjaj))"
+    },
+    {
+      "id": "01M4SFVHHTTEHWCCHJEH57PV6G",
+      "line": 43,
+      "indent": 2,
+      "content_hash": "sha256:60c0b40850c387b783aee5c607faf567e4e2d4117b4c82bd398e0ef97ca480ea",
+      "ref_handle": "blk-57pv6g",
+      "text": "!((blk-mxkwa9))"
+    },
+    {
+      "id": "01M4SF25F97EW7TQCDD7TDX0S1",
+      "line": 44,
+      "indent": 2,
+      "content_hash": "sha256:5b69e5d7f8e5f7ba8f890775a6cb9b1a9eeea54b4216f5aafa15b170a262bf00",
+      "ref_handle": "blk-tdx0s1",
+      "text": "!((blk-na1cdg))"
+    },
+    {
+      "id": "01M4SF2D75SBDMR3E0DF4RK81R",
+      "line": 45,
+      "indent": 2,
+      "content_hash": "sha256:91aae6d9b0c71a4aac0c53d3b3071a5f862efb3a1a1474745c80ab53b21afd1d",
+      "ref_handle": "blk-4rk81r",
+      "text": "!((blk-bt6pv2))"
+    },
+    {
+      "id": "01M4SFVHJTFR86KK92XEA1TX5M",
+      "line": 46,
+      "indent": 2,
+      "content_hash": "sha256:781b6c5afcb9ef24adf8dbf1a967d07ffc3c6656d17ab65c2b9544d2fcbe4bd2",
+      "ref_handle": "blk-a1tx5m",
+      "text": "!((blk-1kpw1r))"
+    },
+    {
+      "id": "01M4SF2CZ90F086G63YH3DD6KK",
+      "line": 47,
+      "indent": 2,
+      "content_hash": "sha256:ef4e4749830d417fd7907a136c46023de5d8af5757c07080ca48a15d249fafa0",
+      "ref_handle": "blk-3dd6kk",
+      "text": "!((blk-8nsrfr))"
+    },
+    {
+      "id": "01M4SF0E86TMMR8ZWT7XNA1CDG",
+      "line": 48,
+      "indent": 0,
+      "content_hash": "sha256:833a49dee8feaa36c8f1e480b9d06be9bd9638e77a7476f624f182e1cb9dcc5e",
+      "ref_handle": "blk-na1cdg",
+      "text": "EXPECT: eight hits - plain #rebel blocks plus the nested #rebel/alliance block, whose slash segment is not a standalone tag so not-tag: alliance keeps it; this comment and this EXPECT answer through their prose mentions; #rebellion stays out.EXPECT: eight hits - plain #rebel blocks plus the nested #rebel/alliance block, whose slash segment is not a standalone tag so not-tag: alliance keeps it; this comment and this EXPECT answer through their prose mentions; #rebellion stays out."
+    },
+    {
+      "id": "01M4SF0E8G6EVQ5P7ZT9MMM8NM",
+      "line": 49,
+      "indent": 0,
+      "content_hash": "sha256:4235455e9a23cd32262caba9ff49b9f981d7ddb976a94e228d825d15534ee87a",
+      "ref_handle": "blk-mmm8nm",
+      "text": "Negation combined with a state filter and windowing: todo blocks that do not carry #jedi, ordered by text, cut to the first three."
+    },
+    {
+      "id": "01M4SF0E8TRA65AD122ZXXQK5B",
+      "line": 50,
+      "indent": 0,
+      "content_hash": "sha256:2e57c733c3504927a80a5019fa1bdafb97297bf9297a7093cbb28a9775459c2e",
+      "ref_handle": "blk-xxqk5b",
+      "text": "```query\nnot-tag: jedi\nstatus: todo\nsort: text\nlimit: 3\n```"
+    },
+    {
+      "id": "01M4SF21ZC016RGQX09P9E9EAV",
+      "line": 51,
+      "indent": 1,
+      "content_hash": "sha256:e380240cc09ef061cabf2d2b9b840709423173c800d7f1d25e0fd651f89c616d",
+      "ref_handle": "blk-9e9eav",
+      "text": "> **result:** (3 blocks)"
+    },
+    {
+      "id": "01M4SF2CYJZVNSF7QBWDSKBXW3",
+      "line": 52,
+      "indent": 2,
+      "content_hash": "sha256:e98108b432d7b699fad89ee618c46dce707b2be12b944ac5a87f93d275eade9c",
+      "ref_handle": "blk-skbxw3",
+      "text": "!((blk-eg4dc5))"
+    },
+    {
+      "id": "01M4SF2CYJAFJ02NWXTA5MNHGY",
+      "line": 53,
+      "indent": 2,
+      "content_hash": "sha256:0b799e93ac48e67bb2e31725be48f106e05e431351770689bf5214ca42c72b09",
+      "ref_handle": "blk-5mnhgy",
+      "text": "!((blk-h8exgh))"
+    },
+    {
+      "id": "01M4SF2CYJX96FSSERQ64ZP3P3",
+      "line": 54,
+      "indent": 2,
+      "content_hash": "sha256:ef4e4749830d417fd7907a136c46023de5d8af5757c07080ca48a15d249fafa0",
+      "ref_handle": "blk-4zp3p3",
+      "text": "!((blk-8nsrfr))"
+    },
+    {
+      "id": "01M4SF0E94SFJ5A96N5T20C24R",
+      "line": 55,
+      "indent": 0,
+      "content_hash": "sha256:6a837fa0f2c551f3637cbc1f1b2973d46dd1dccb46c4168dce3b3899750d4d9f",
+      "ref_handle": "blk-20c24r",
+      "text": "EXPECT: todo blocks without #jedi, byte-ordered, capped at three: Chase the Rancor in the pit, Deploy the probe droids, Rescue Han from carbonite."
+    },
+    {
+      "id": "01M4SF0E9DZKDMF00W835PG6EE",
+      "line": 56,
+      "indent": 0,
+      "content_hash": "sha256:655cc0bc36f624809bae3525f3bb6a85754e43e0df7c3b2c93dce55681966ab4",
+      "ref_handle": "blk-5pg6ee",
+      "text": "Property presence and value: prop: due keeps blocks carrying a due:: property, and the :: value narrows it to one exact date. The double-colon spelling matches how properties are written in the .md."
+    },
+    {
+      "id": "01M4SF0E9Q8PJ4W4AJ802C0K3J",
+      "line": 57,
+      "indent": 0,
+      "content_hash": "sha256:76e7ab02a7e377516b3c3c1eb6fca0b0aa3577229cb2777ffb589c9f5729da0b",
+      "ref_handle": "blk-2c0k3j",
+      "text": "```query\nprop: due:: 2026-02-15\nsort: page\n```"
+    },
+    {
+      "id": "01M4SFVHKHQYCGBW1G1X0SERRM",
+      "line": 58,
+      "indent": 1,
+      "content_hash": "sha256:fdf0decdc3f2e931396dfa737150f53dfc66c98e522468667722580fad099b26",
+      "ref_handle": "blk-0serrm",
+      "text": "> **result:** (1 blocks)"
+    },
+    {
+      "id": "01M4SFVHKHE3AZ6RGQ9EM1G606",
+      "line": 59,
+      "indent": 2,
+      "content_hash": "sha256:e9a8380ecdedb893f59d36da7d440e4c02707a193cf064ab7e09d9d1cdd0db39",
+      "ref_handle": "blk-m1g606",
+      "text": "!((blk-p20h71))"
+    },
+    {
+      "id": "01M4SF0EA1SF7F6215MM89RZRA",
+      "line": 60,
+      "indent": 0,
+      "content_hash": "sha256:cc3a5b3af94627711cb495389b50884590ebc00df6641d6b0801d639a4c24e4e",
+      "ref_handle": "blk-89rzra",
+      "text": "EXPECT: Train at the Jedi temple — the only block carrying due:: 2026-02-15."
+    },
+    {
+      "id": "01M4SF0EABXY3VC392C966JPG1",
+      "line": 61,
+      "indent": 0,
+      "content_hash": "sha256:3f1115b4b71f39432fb22c61a66c223c40577c3df05fc1ed10f4983804313a09",
+      "ref_handle": "blk-66jpg1",
+      "text": "Journal window: kind: journal restricts to journal pages, since: 7d keeps entries dated inside the last seven days. Ordinary pages are not journals, so they never answer this fence."
+    },
+    {
+      "id": "01M4SF0EANESS7WNK2DJ6SFS40",
+      "line": 62,
+      "indent": 0,
+      "content_hash": "sha256:d1c45471b1e29f16e2c7b9f5eaa602f67bf8c98eb28296621fa1972bdacb972a",
+      "ref_handle": "blk-6sfs40",
+      "text": "```query\nkind: journal\nsince: 7d\nsort: page\n```"
+    },
+    {
+      "id": "01M4SFVHKQ92KAAH6329XPE35T",
+      "line": 63,
+      "indent": 1,
+      "content_hash": "sha256:21e74105df9aa72edb24a020302ae710a9fe9b669250465059e2f66f7c4f7ac5",
+      "ref_handle": "blk-xpe35t",
+      "text": "> **result:** (7 blocks)"
+    },
+    {
+      "id": "01M4SFVHKQD769EV0H2SRKTCDB",
+      "line": 64,
+      "indent": 2,
+      "content_hash": "sha256:3050c8d2afe1c316965823ee24b9418ff2fcfb5fb8c71d355163b0d1595b0c27",
+      "ref_handle": "blk-rktcdb",
+      "text": "!((blk-ms7pj3))"
+    },
+    {
+      "id": "01M4SFVHKQFVR00AAQRWD8Y75T",
+      "line": 65,
+      "indent": 2,
+      "content_hash": "sha256:311c988a9ce384bd1627646e26f79c08dca8c3d7d7748fad73a4d91d25c41762",
+      "ref_handle": "blk-d8y75t",
+      "text": "!((blk-bqw0yj))"
+    },
+    {
+      "id": "01M4SFVHKQXNQBMAE43QS8P7HC",
+      "line": 66,
+      "indent": 2,
+      "content_hash": "sha256:abbf4e8afd8a77c453336658407a3a729e6c7f441bac1308679525349ecc9c2b",
+      "ref_handle": "blk-s8p7hc",
+      "text": "!((blk-647ndt))"
+    },
+    {
+      "id": "01M4SFVHJTQ1NCFQQ4G1Y81Z76",
+      "line": 67,
+      "indent": 2,
+      "content_hash": "sha256:91aae6d9b0c71a4aac0c53d3b3071a5f862efb3a1a1474745c80ab53b21afd1d",
+      "ref_handle": "blk-y81z76",
+      "text": "!((blk-bt6pv2))"
+    },
+    {
+      "id": "01M4SFVHKQW7PYQXYWY6034Y34",
+      "line": 68,
+      "indent": 2,
+      "content_hash": "sha256:aaf25d08ced6cfdcedc44b7122950a31fe84db5413db6575ed34102acf5b3b0e",
+      "ref_handle": "blk-034y34",
+      "text": "!((blk-hn5gmc))"
+    },
+    {
+      "id": "01M4SFVHKQJ9TYDYSYNAKVNDS0",
+      "line": 69,
+      "indent": 2,
+      "content_hash": "sha256:ec64f00068eee6d77a201b4020c974da9c1bdebe9a416b0c69e04f4910535842",
+      "ref_handle": "blk-kvnds0",
+      "text": "!((blk-qqpgca))"
+    },
+    {
+      "id": "01M4SFVHKQZVWFP148RA11BE8A",
+      "line": 70,
+      "indent": 2,
+      "content_hash": "sha256:e3e9b831c86986857657f1737a5fdeafca2e15788ff1271f568daa727d591a13",
+      "ref_handle": "blk-11be8a",
+      "text": "!((blk-9sm7gt))"
+    },
+    {
+      "id": "01M4SF0EAZ0SSWZ583SBEAF7XW",
+      "line": 71,
+      "indent": 0,
+      "content_hash": "sha256:fef2eeae007a17b212bc4d0b9317fb2af6e43ed13d78e00027e3fe56533304b7",
+      "ref_handle": "blk-eaf7xw",
+      "text": "EXPECT: seven hits - every block of the today, minus-1d and minus-3d journals, counting the empty filler blocks and the [[q-fences]] ref line; the minus-30d survey falls outside the window.EXPECT: seven hits - every block of the today, minus-1d and minus-3d journals, counting the empty filler blocks and the [[q-fences]] ref line; the minus-30d survey falls outside the window."
+    },
+    {
+      "id": "01M4SF0EBAVTT25BBF4PSEWGPA",
+      "line": 72,
+      "indent": 0,
+      "content_hash": "sha256:fd62ad1b6524fa0a59783e4e931d9d26f738d3d922f745e47e1f77830c93d733",
+      "ref_handle": "blk-sewgpa",
+      "text": "Substring search narrowed by state: text: garrison is case-insensitive over block text, status: done keeps only completed tasks."
+    },
+    {
+      "id": "01M4SF0EBM323Q8R14AGPWAQ6N",
+      "line": 73,
+      "indent": 0,
+      "content_hash": "sha256:b3f661f19a3b3c9975b81ba924971f8dc940c2d0ded3a7eb67b414adb7ef2571",
+      "ref_handle": "blk-pwaq6n",
+      "text": "```query\ntext: garrison\nstatus: done\n```"
+    },
+    {
+      "id": "01M4SF2D02RP5MMFDAMFDJZ5G5",
+      "line": 74,
+      "indent": 1,
+      "content_hash": "sha256:fdf0decdc3f2e931396dfa737150f53dfc66c98e522468667722580fad099b26",
+      "ref_handle": "blk-djz5g5",
+      "text": "> **result:** (1 blocks)"
+    },
+    {
+      "id": "01M4SF2CYJRQGSDREPWSNNSVA0",
+      "line": 75,
+      "indent": 2,
+      "content_hash": "sha256:6bc4bb8be5946c312e3166624d2fec6b4bb660c3f1ee785f518975630a65ed39",
+      "ref_handle": "blk-nnsva0",
+      "text": "!((blk-s9k280))"
+    },
+    {
+      "id": "01M4SF0EBZZRBX7Q06QJY0ZE5D",
+      "line": 76,
+      "indent": 0,
+      "content_hash": "sha256:0e73b79e2286883eff811c87b5a1472526b5181765133f6898984f672e7d4165",
+      "ref_handle": "blk-y0ze5d",
+      "text": "EXPECT: Audit the garrison logs only — substring is case-insensitive, status narrows to done."
+    },
+    {
+      "id": "01M4SF0ECARDD3MEJ5K604HFVB",
+      "line": 77,
+      "indent": 0,
+      "content_hash": "sha256:9ff9f211aa5eb97704506991b8e91045f4298481c955f4d365a9bcf291cb9ecf",
+      "ref_handle": "blk-04hfvb",
+      "text": "Case-insensitive value: a capitalized tag value matches both spellings of the tag name, while the directive key itself stays lowercase."
+    },
+    {
+      "id": "01M4SF0ECMK228QDYKH2BVF6WV",
+      "line": 78,
+      "indent": 0,
+      "content_hash": "sha256:a21b720d5c637dbbf4772714b349116a794c3ecab8c226fb412dbc2ae2a9f682",
+      "ref_handle": "blk-bvf6wv",
+      "text": "```query\ntag: Jedi\nsort: page\n```"
+    },
+    {
+      "id": "01M4SF2D09KBJHQG3S06VCSDW8",
+      "line": 79,
+      "indent": 1,
+      "content_hash": "sha256:21e74105df9aa72edb24a020302ae710a9fe9b669250465059e2f66f7c4f7ac5",
+      "ref_handle": "blk-vcsdw8",
+      "text": "> **result:** (7 blocks)"
+    },
+    {
+      "id": "01M4SF2CYJFV2F93NQDX0BER4S",
+      "line": 80,
+      "indent": 2,
+      "content_hash": "sha256:311c988a9ce384bd1627646e26f79c08dca8c3d7d7748fad73a4d91d25c41762",
+      "ref_handle": "blk-0ber4s",
+      "text": "!((blk-bqw0yj))"
+    },
+    {
+      "id": "01M4SF23J93DDW09QEYTG7ZY22",
+      "line": 81,
+      "indent": 2,
+      "content_hash": "sha256:b41ae9782980a032a4e62dcd5bd768030c63995f3a4b4ba74bfeddb063be126c",
+      "ref_handle": "blk-g7zy22",
+      "text": "!((blk-mmm8nm))"
+    },
+    {
+      "id": "01M4SF23J9979688RSQ5G8G4NH",
+      "line": 82,
+      "indent": 2,
+      "content_hash": "sha256:8bd28150519e43232cd16fd81a6b1879575b51e49f186bba58052c948d81ef1e",
+      "ref_handle": "blk-g8g4nh",
+      "text": "!((blk-tnr9mf))"
+    },
+    {
+      "id": "01M4SF23J9EAA80DF6G4J4KJF9",
+      "line": 83,
+      "indent": 2,
+      "content_hash": "sha256:f4497e60734feccb480a351c9e5120c683194dc3453da15d86830120f73254ac",
+      "ref_handle": "blk-j4kjf9",
+      "text": "!((blk-20c24r))"
+    },
+    {
+      "id": "01M4SF256VXTA9XJGF7K3JH9FR",
+      "line": 84,
+      "indent": 2,
+      "content_hash": "sha256:314382eb7a334b8a4f212fabab4ccc374c3d37d270740c2b2a774b1a38694932",
+      "ref_handle": "blk-3jh9fr",
+      "text": "!((blk-z8j6pb))"
+    },
+    {
+      "id": "01M4SF2CYJ9AVNTQ13TPTTCY40",
+      "line": 85,
+      "indent": 2,
+      "content_hash": "sha256:b88559afa3dcd3551f6388e64ff3b44c459a2594d6717490239614855ae78a96",
+      "ref_handle": "blk-ttcy40",
+      "text": "!((blk-zjvzv3))"
+    },
+    {
+      "id": "01M4SF2B4KPCGXB90HQ8SCHKJ8",
+      "line": 86,
+      "indent": 2,
+      "content_hash": "sha256:e9a8380ecdedb893f59d36da7d440e4c02707a193cf064ab7e09d9d1cdd0db39",
+      "ref_handle": "blk-schkj8",
+      "text": "!((blk-p20h71))"
+    },
+    {
+      "id": "01M4SF0ECYTRPQMV47NGTNR9MF",
+      "line": 87,
+      "indent": 0,
+      "content_hash": "sha256:2fa7a40697319d017c86c685673f851e33d03c1e31b0f23ed11b6f39be355978",
+      "ref_handle": "blk-tnr9mf",
+      "text": "EXPECT: seven hits - Train, Meet Yoda, Upper case notes, Refit, plus this EXPECT and the two comments above that mention jedi tags in prose; the value matches #jedi and #Jedi alike.EXPECT: seven hits - Train, Meet Yoda, Upper case notes, Refit, plus this EXPECT and the two comments above that mention jedi tags in prose; the value matches #jedi and #Jedi alike."
+    },
+    {
+      "id": "01M4SF0ED861EXM53XZ2NTNEV5",
+      "line": 88,
+      "indent": 0,
+      "content_hash": "sha256:2f5bd83ec5515b81a5382242100adeb3eedd63a6ec65f4e8f21556324b81cfc0",
+      "ref_handle": "blk-ntnev5",
+      "text": "Positive and its exact negation on the same key: both lines must hold, so nothing can. Useful for confirming the complement is real."
+    },
+    {
+      "id": "01M4SF0EDJCX9GX5A57H85KGKQ",
+      "line": 89,
+      "indent": 0,
+      "content_hash": "sha256:269d390d8bd9bd08dc939474e829ac3f743e9c42a05c7f5b0378832b0d1a7639",
+      "ref_handle": "blk-85kgkq",
+      "text": "```query\nstatus: open\nnot-status: open\n```"
+    },
+    {
+      "id": "01M4SF24JHNWMF995VAKGWSBX5",
+      "line": 90,
+      "indent": 1,
+      "content_hash": "sha256:909d78e845ed870d730055a85a0bf91d864b3889ac5bf7758b386f70a74085a7",
+      "ref_handle": "blk-gwsbx5",
+      "text": "> **result:** (0 blocks)"
+    },
+    {
+      "id": "01M4SF0EDW31KGRGFPJSMCCFKZ",
+      "line": 91,
+      "indent": 0,
+      "content_hash": "sha256:5447cd2410398b93b26e7e601e96b2b8f4f1d558d457d8cf122da682ee4704a1",
+      "ref_handle": "blk-mccfkz",
+      "text": "EXPECT: empty — a positive and its exact negation can never both hold, for every key."
+    },
+    {
+      "id": "01M4SF0EE6T14S47TJ1WVM339A",
+      "line": 92,
+      "indent": 0,
+      "content_hash": "sha256:edcae8126ecdcb2f801741c0be4e510d7f429cca1de9be41213063893374c12a",
+      "ref_handle": "blk-vm339a",
+      "text": "Controls have no negative: sort and limit are not filters, so the not- wrapper is rejected as an unknown key rather than silently ignored."
+    },
+    {
+      "id": "01M4SF0EEGA97TVH35JEBXYHBZ",
+      "line": 93,
+      "indent": 0,
+      "content_hash": "sha256:fb42378e05ead57346ac1d7787f840e53fcfdcd3c620e9fb881bfab91f0904bf",
+      "ref_handle": "blk-bxyhbz",
+      "text": "```query\nnot-sort: page\n```"
+    },
+    {
+      "id": "01M4SF259ACW0NME28B0QWX5VS",
+      "line": 94,
+      "indent": 1,
+      "content_hash": "sha256:ee80b1e6b1b7fd5cde109b0172f6da22210bd72166df0820ac62fc3abc0dbd7b",
+      "ref_handle": "blk-qwx5vs",
+      "text": "> **result:** `error: line 1: unknown key: 'not-sort'`"
+    },
+    {
+      "id": "01M4SF0EEV6MN83D11PZAKXH4Z",
+      "line": 95,
+      "indent": 0,
+      "content_hash": "sha256:93d5f8b82cdfb34d3a05541f06e1ec45a62ab9f6db39f4fa5f7551d52f363953",
+      "ref_handle": "blk-akxh4z",
+      "text": "EXPECT: parse error on line 1 — sort is not a filter, so not-sort is an unknown key."
+    }
+  ],
+  "pipeline_version": 5
+}

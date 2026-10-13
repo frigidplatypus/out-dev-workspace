@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "page_id": "6CFK2VCGZ30FSPX4PSF5VVF3R0",
+  "last_synced_hash": "sha256:b745e37a8e3166d9dedc1359df90d3d34e5d3f537bea27ece2bf0ec41646a871",
+  "last_synced_at": "2026-10-12T20:46:06.282262175-05:00",
+  "blocks": [
+    {
+      "id": "01M4SF0E14EAWB83XGSFH8EXGH",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:8d6ef67cca766a2ebf867c20bbe4c16fb9586fb7d7aba695d64d3bbd7a8108f1",
+      "ref_handle": "blk-h8exgh",
+      "text": "TODO Deploy the probe droids #droid"
+    },
+    {
+      "id": "01M4SF0E1DWQ8M9QMSJ0G54H9J",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:ea6e63454c9c7ae45cf67cc6f18a576004d088dfc761b0d3ee1c46f108269cd7",
+      "ref_handle": "blk-g54h9j",
+      "text": "DOING Forge the bounty contract #bounty"
+    },
+    {
+      "id": "01M4SF0E1P2D8NMHVF5QS9K280",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:30c6bde89d576b294d23c7c3f385b7eb74100caa1543ccadeb2fe5246a05184d",
+      "ref_handle": "blk-s9k280",
+      "text": "DONE Audit the garrison logs"
+    },
+    {
+      "id": "01M4SF0E1ZDPWEP02WRTB6KGSW",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:5b5c0839315f439b9f1e3db4793304e4793ef4b7ac9bff2bfa2e1603cd98f73c",
+      "ref_handle": "blk-b6kgsw",
+      "text": "Sith plotting in the Senate #sith"
+    },
+    {
+      "id": "01M4SF0E281Y2Y659T9GVGV121",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:dd071d0a72c12cc772e6ce812e3d4ccab3f3dabda1878c00e9ade97892565857",
+      "ref_handle": "blk-vgv121",
+      "text": "> Breathe through the headaches of destiny. #wisdom"
+    }
+  ],
+  "pipeline_version": 5
+}
